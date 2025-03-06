@@ -9,7 +9,7 @@ body {
 
 header {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   padding: 10px;
 }
 
@@ -25,21 +25,21 @@ p {
 
 form {
   box-sizing: border-box;
-  margin: 10px;
+  margin: auto;
   max-width: 400px;
-  padding: 50px;
+  padding: 10px;
 }
 
 label {
   font-size: 2rem;
   color: #333;
-  margin: 15px;
-  padding: 20px;
+  /*margin: 15px;
+  padding: 20px; */
 }
 
 input {
-  padding: 10px;
-  margin: 20px;
+  /* padding: 10px;
+  margin: 20px; */
   font-size: 1rem;
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -47,8 +47,8 @@ input {
 }
 
 button {
-  padding: 10px;
-  margin: 20px;
+  /* padding: 10px;
+  margin: 20px; */
   background-color: #4CAF50;
   color: white;
   font-size: 1.3rem;
