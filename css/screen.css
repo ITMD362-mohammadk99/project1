@@ -12,6 +12,7 @@ body {
 header {
   text-align: center;
   margin-bottom: 20px;
+  padding: 10px;
 }
 
 h1 {
@@ -27,6 +28,7 @@ p {
 form {
   max-width: 500px;
   margin: 0 auto;
+  padding: 5px;
 }
 
 label {
