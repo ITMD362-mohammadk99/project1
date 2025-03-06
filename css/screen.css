@@ -4,7 +4,7 @@ html {
 
 body {
   background-color: green;
-  color: #333;
+  /* color: #333; */
   height: 100vh;
   padding: 20px;
 }
@@ -27,7 +27,7 @@ p {
 
 form {
   max-width: 500px;
-  margin: 0 auto;
+  margin: 10 auto;
   padding: 5px;
 }
 
