@@ -27,7 +27,7 @@ form {
   box-sizing: border-box;
   margin: auto;
   max-width: 400px;
-  padding: 5px;
+  padding: 50px;
 }
 
 label {
@@ -45,6 +45,7 @@ input {
 
 button {
   padding: 10px;
+  margin: 20px;
   background-color: #4CAF50;
   color: white;
   font-size: 1.3rem;
