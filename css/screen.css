@@ -26,8 +26,9 @@ p {
 
 form {
   max-width: 500px;
-  margin: 10px auto;
+  margin: auto;
   padding: 5px;
+  box-sizing: border-box;
 }
 
 label {
