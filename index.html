@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sign Up</title>
   <link rel="stylesheet" href="css/meyers_and_normalize-form_reset.css">
@@ -13,16 +13,13 @@
     <h1>Join Our Community!</h1>
     <p>Sign up today to get exclusive access to our beta program.</p>
   </header>
-  <form id="signup-form" method="get" action="#null">
+  <form id="signup-form" method="get" action="#null" autocomplete="on">
     <label for="name">Full Name</label>
     <input type="text" id="name" name="name" required placeholder="Enter your full name">
-
     <label for="email">Email Address</label>
     <input type="email" id="email" name="email" required placeholder="Enter your email address">
-
     <label for="password">Create a Password</label>
     <input type="password" id="password" name="password" required placeholder="Create a strong password">
-
     <button type="submit" id="submit-btn">Sign Up</button>
   </form>
 </body>
