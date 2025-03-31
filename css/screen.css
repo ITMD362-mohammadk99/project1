@@ -3,6 +3,7 @@ html {
 }
 
 body {
+  font-family: 'Devonshire', cursive;
   background-color: green;
   height: 100vh;
 }
