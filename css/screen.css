@@ -78,6 +78,9 @@ button:hover {
   button {
     font-size: 1.5rem;
   }
+  input, selecu, button {
+     width: 93%;
+  }
 }
 
 @media screen and (min-width: 1024px) {
@@ -87,6 +90,9 @@ button:hover {
 
   form {
     max-width: 600px;
+  }
+  input, selecu, button {
+     width: 94%;
   }
 }
 
