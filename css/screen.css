@@ -69,6 +69,7 @@ button:hover {
 
   form {
     margin: 0 auto;
+    padding: 30px;
   }
 
   h1 {
@@ -81,6 +82,10 @@ button:hover {
   input, select, button {
      width: 93%;
   }
+  header {
+    text-align: center;
+  }
+  
 }
 
 @media screen and (min-width: 1024px) {
@@ -94,6 +99,11 @@ button:hover {
   input, select, button {
      width: 94%;
   }
+
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
 }
-
-
