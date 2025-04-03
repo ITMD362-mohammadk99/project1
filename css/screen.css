@@ -78,7 +78,7 @@ button:hover {
   button {
     font-size: 1.5rem;
   }
-  input, selecu, button {
+  input, select, button {
      width: 93%;
   }
 }
@@ -91,7 +91,7 @@ button:hover {
   form {
     max-width: 600px;
   }
-  input, selecu, button {
+  input, select, button {
      width: 94%;
   }
 }
